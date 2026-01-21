@@ -161,5 +161,11 @@ This project demonstrates the ability to move from prediction to business impact
 **Nandana V Shamjith**  
 Data Analytics & Business Intelligence Portfolio Project
 
+LinkedIn: www.linkedin.com/in/690374282
+
+Email: nandanavshamjith39@gmail.com
+
+
+
 
 
