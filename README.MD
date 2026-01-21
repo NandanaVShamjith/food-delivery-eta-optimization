@@ -122,8 +122,15 @@ The dashboard shows *what* is happening, SQL explains *why*, and Python explains
 
 ---
 ## Power BI Dashboard  
-🔗 Download PBIX: https://drive.google.com/file/d/11jcJohesD5ZWe5l45Dr0zfYHFBrmc1y6/view?usp=sharing
+🔗 Download PBIX: https://github.com/NandanaVShamjith/food-delivery-eta-optimization/blob/main/Food%20Delivery.pbix
 
+Screenshot: https://drive.google.com/file/d/1d4A64j5f_zZRp2rVFK4onKRUUb8NWnlW/view?usp=sharing
+
+Screenshot: https://drive.google.com/file/d/1sAd56R1AohD2J_ZpyYvJjKsjBOi3xO2D/view?usp=sharing
+
+Screenshot: https://drive.google.com/file/d/16vU3k9WXwb78BkYRnsg5T8vnql6l1B6U/view?usp=sharing
+
+Screenshot: https://drive.google.com/file/d/122HC5C8gXFNWKzg1dJSh05XrBbOkJDvR/view?usp=sharing
 
 
 ---
@@ -153,5 +160,6 @@ This project demonstrates the ability to move from prediction to business impact
 ## Author
 **Nandana V Shamjith**  
 Data Analytics & Business Intelligence Portfolio Project
+
 
 
